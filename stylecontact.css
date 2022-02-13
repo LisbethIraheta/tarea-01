@@ -1,36 +1,24 @@
 @import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@600&family=Roboto+Serif:ital,wght@1,100&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@600&family=Roboto+Serif:ital,wght@1,100&display=swap');
 *{
-    background-color: lightgoldenrodyellow;
+    background-color: aquamarine;
 }
-ul, li{
-    font-family: Comfortaa;
-    font-weight: lighter;
-    font-size:medium;
-    padding-bottom: 1em;
-}
+
 h1{
-    background-color: lightseagreen;
+    background-color: lightsalmon;
     font-family: Comfortaa;
     font-weight: bold;
     color: black;
-    font-size: 3em;
+    font-size: 5em;
     padding-left: 0%;
     padding-top: 1em;
     padding-right: 0%;
     padding-bottom: 1em;
     text-align:center;
 }
-h2{
-    font-family: Roboto;
-    font-weight: bold;
-    color: gray;
-    text-align: center;
-    font-style: italic;
-    padding-left: 0%;
-    padding-top: 1em;
-    padding-right: 0%;
-    padding-bottom: 1em;
 
+h3, p{
+    font-family: comfortaa;
+    font-size: medium;
 
 }
